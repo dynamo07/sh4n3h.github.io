@@ -1,0 +1,29 @@
+.picture-module
+{
+    float: left;
+    text-align: center;
+    background: rgb(202, 29, 29);
+    width: 20%;
+    margin-top: 2%;
+    border-radius: 5px;
+    margin-left: 4%;
+}
+
+.picture-module-heading
+{
+    font-size: 20px; 
+    font-family: fantasy;  
+    color: white;
+}
+  
+.main-body
+{
+    float: left;  
+    width: 20%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: .5%;
+    margin-left: 4%;
+    background: rgb(175, 147, 8);
+    border-radius: 5px;
+}
